@@ -53,6 +53,12 @@
 
  .card .links img:hover{
      background-color: cyan;
+     border: rgb(74, 215, 240) 3px solid;
+     transition: 0.4s;
+     box-shadow: rgb(45, 46, 46);
+     
+     
+
  }
  .btn{
      text-decoration: none;
