@@ -52,7 +52,7 @@
  }
 
  .card .links img:hover{
-     background-color: #ff01cf;
+     background-color: cyan;
  }
  .btn{
      text-decoration: none;
@@ -60,7 +60,7 @@
      font-size: 18px;
      font-weight: 500;
      background-color: #fff;
-     color: #ff01cf;
+     color: black;
      padding: 10px 30px;
      border-radius: 30px;
      margin: 30px 0 10px;
